@@ -174,8 +174,9 @@ function openSafetyNotice(){
 }
 safetyReview.addEventListener('click',openSafetyNotice);
 safetyCheckbox.addEventListener('change',()=>{safetyContinue.disabled=!safetyCheckbox.checked});
+safetyDialog.addEventListener('keydown',event=>{if(event.key==='Escape'&&!safetyAcknowledged){event.preventDefault();event.stopPropagation()}});
 safetyDialog.addEventListener('cancel',event=>{if(!safetyAcknowledged)event.preventDefault()});
-safetyDialog.addEventListener('close',()=>{document.body.classList.remove('safety-open');safetyReview.focus({preventScroll:true})});
+safetyDialog.addEventListener('close',()=>{if(!safetyAcknowledged){openSafetyNotice();return}document.body.classList.remove('safety-open');safetyReview.focus({preventScroll:true})});
 document.getElementById('safety-form').addEventListener('submit',event=>{
  event.preventDefault();
  if(!safetyAcknowledged&&!safetyCheckbox.checked)return;
