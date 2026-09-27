@@ -1,0 +1,1584 @@
+{
+  "title": "SW Michigan guide expansion: local records and comparison",
+  "reviewed": "2026-09-27",
+  "scope": "Asylum Lake Preserve local field survey, supplemented with selected Research Grade records from Berrien, Kalamazoo and Van Buren counties. Not an exhaustive regional checklist.",
+  "before": 23,
+  "added": 40,
+  "after": 63,
+  "survey": {
+    "source": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+    "fieldwork": "2000",
+    "report": "October 2001, revised February 2002",
+    "tableRows": 27,
+    "added": 19,
+    "alreadyRepresented": [
+      "Morchella sp. (genus only)",
+      "Trametes versicolor"
+    ],
+    "heldForClarification": [
+      "Chaetoporous europus",
+      "Polyporus decurrens",
+      "Polyporus fagicola",
+      "Poria corticolla",
+      "Russula rosacea"
+    ],
+    "excludedNonfungus": "Abeliophyllum distichum"
+  },
+  "communityEvidence": "iNaturalist Research Grade community identifications, subject to revision; not specimen verification by this guide.",
+  "additions": [
+    {
+      "taxon": "Chondrostereum purpureum",
+      "name": "Silverleaf fungus",
+      "aliases": "silver leaf fungus, purple crust",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Fresh growth in cool wet weather; old brackets may persist",
+      "habitat": "Dead hardwood branches, stumps and cut surfaces",
+      "id": "Thin grayish-brown shelves with a violet to purple, smooth underside when fresh.",
+      "look": "Violet-toothed polypores have pores or teeth below; other purple crusts can require microscopy.",
+      "details": [
+        "Overlapping leathery caps may have pale, hairy upper surfaces. The fertile underside lacks true gills and pores; its purple color fades with age. A fresh underside and host information are more useful than color alone.",
+        "Violet-toothed polypores have pores or teeth below; other purple crusts can require microscopy."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "inedible",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Chondrosstereum purpureum"
+      },
+      "historical": "Chondrosstereum purpureum",
+      "idSource": "https://pnwhandbooks.org/plantdisease/host-disease/cherry-prunus-spp-silver-leaf"
+    },
+    {
+      "taxon": "Coprinellus micaceus",
+      "name": "Mica cap group",
+      "aliases": "glistening ink cap, mica inkcap, common inky, Coprinus micaceus",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall after rain",
+      "habitat": "Clusters on decaying hardwood, stumps and buried roots",
+      "id": "Small honey-brown bell-shaped caps with glittering granules when young; gills darken to black.",
+      "look": "Other inkcaps may lack the granules; rain can wash them off. Alcohol inkcaps and deadly small brown mushrooms require careful separation.",
+      "details": [
+        "Caps are typically 2–5 cm wide, with conspicuous radial grooves. White hollow stems support crowded gills that darken and partly dissolve. Several closely related species share this appearance; fresh specimens and expert confirmation are needed.",
+        "Other inkcaps may lack the granules; rain can wash them off. Alcohol inkcaps and deadly small brown mushrooms require careful separation."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://mdc.mo.gov/discover-nature/field-guide/mica-cap",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Coprinus micaceus"
+      },
+      "historical": "Coprinus micaceus",
+      "inatId": 56318,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=56318",
+        "count": 22,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/mica-cap"
+    },
+    {
+      "taxon": "Cryptoporus volvatus",
+      "name": "Veiled polypore",
+      "aliases": "pouch fungus, cryptic globe fungus",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall; most fresh growth in warmer months",
+      "habitat": "Bark of dead or dying conifers",
+      "id": "Small cream-to-tan rounded brackets with the pores enclosed by a covering; a small opening develops underneath.",
+      "look": "Puffballs lack an enclosed layer of pore tubes. Other conks usually expose their pores directly.",
+      "details": [
+        "The unusual covering forms a chamber below the cap. Examine an intact underside and a cross-section to see the enclosed tubes; record the tree type. Old damaged brackets may lose the covering.",
+        "Puffballs lack an enclosed layer of pore tubes. Other conks usually expose their pores directly."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/cryptoporus_volvatus.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Cryptoporous volvatus"
+      },
+      "historical": "Cryptoporous volvatus",
+      "inatId": 118051,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=118051",
+        "count": 9,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Fomes fomentarius",
+      "name": "Tinder conk group",
+      "aliases": "hoof fungus, tinder polypore, amadou",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Perennial brackets visible year-round",
+      "habitat": "Standing or fallen hardwoods, often beech or birch",
+      "id": "Hard hoof-shaped conks with gray zoned tops and brown pores underneath.",
+      "look": "False tinder conks and other perennial brackets can look similar. Host, internal tissue and microscopy help separate species.",
+      "details": [
+        "The cap has a woody crust and layered brown tubes inside. North American tinder conks include closely related taxa, including Fomes excavatus; the old survey name is retained as a group-level reference.",
+        "False tinder conks and other perennial brackets can look similar. Host, internal tissue and microscopy help separate species."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/fomes_fomentarius.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Fomes fomentarius"
+      },
+      "historical": "Fomes fomentarius",
+      "taxonNote": "Historical identification; treated here as a tinder-conk group, not DNA-confirmed F. fomentarius.",
+      "inatId": 127510,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=127510",
+        "count": 1,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Lyophyllum decastes",
+      "name": "Fried-chicken mushroom group",
+      "aliases": "clustered domecap, fried chicken mushroom",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Disturbed soil, trails, lawns and woodland edges",
+      "id": "Dense clusters of gray-brown caps with pale gills, white flesh and a white spore print.",
+      "look": "Poisonous Entoloma and other clustered mushrooms can be mistaken for this group. A white spore print alone cannot establish safety.",
+      "details": [
+        "The stems often join at the base, without a distinct ring or cup. Gills attach to the stem; caps range from pale brown to gray-brown. This is a difficult species complex that may need microscopic study.",
+        "Poisonous Entoloma and other clustered mushrooms can be mistaken for this group. A white spore print alone cannot establish safety."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "grass"
+        ]
+      ],
+      "status": "expert",
+      "idSource": "https://www.mushroomexpert.com/lyophyllum_decastes.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Lyophyllum descastes"
+      },
+      "historical": "Lyophyllum descastes",
+      "inatId": 118243,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=118243",
+        "count": 1,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Tetrapyrgos nigripes",
+      "name": "Black-footed Marasmius",
+      "aliases": "black-footed marasmiellus, Marasmiellus nigripes",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Dead hardwood leaves, twigs and small woody debris",
+      "id": "Tiny white caps and pale gills above slender stems that darken toward the base.",
+      "look": "Other small white marasmioid mushrooms overlap; tiny stem hairs and microscopic spores help separate them.",
+      "details": [
+        "Caps are generally only 0.5–2 cm across. Gills may have cross-veins; the stem has fine white hairs and a darker lower portion. These are observation subjects, not table mushrooms.",
+        "Other small white marasmioid mushrooms overlap; tiny stem hairs and microscopic spores help separate them."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil"
+        ]
+      ],
+      "status": "unknown",
+      "idSource": "https://www.mushroomexpert.com/tetrapyrgos_nigripes.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Marasmiellus nigripes"
+      },
+      "historical": "Marasmiellus nigripes",
+      "inatId": 179063,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=179063",
+        "count": 8,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Multiclavula mucida",
+      "name": "White green-algae coral",
+      "aliases": "scum lover, white lichen clubs",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall in damp conditions",
+      "habitat": "Damp decaying wood with a green algal coating",
+      "id": "Tiny whitish upright clubs rising from a green algal film, sometimes with a few branches.",
+      "look": "Small Clavaria and other club fungi can look similar. Check the substrate, associated algae and microscopic features.",
+      "details": [
+        "This is a lichen-forming fungus, with minute club-shaped fruit bodies rather than gilled caps. The local report used the name “Multiclavaria mucida”; modern local observations also record Multiclavula mucida.",
+        "Small Clavaria and other club fungi can look similar. Check the substrate, associated algae and microscopic features."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "unknown",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Multiclavaria mucida"
+      },
+      "historical": "Multiclavaria mucida",
+      "inatId": 205261,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=205261",
+        "count": 3,
+        "checked": "2026-09-27"
+      },
+      "idSource": "https://www.mushroomexpert.com/fungionwood/club%20and%20coral/species%20pages/Multiclavula%20mucida.htm"
+    },
+    {
+      "taxon": "Phellinus igniarius",
+      "name": "False tinder conk group",
+      "aliases": "willow bracket, false tinder polypore",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Perennial conks visible year-round",
+      "habitat": "Living and dead hardwood trunks",
+      "id": "Very hard dark conks with a cracked upper crust and brown pores and flesh.",
+      "look": "Fomes tinder conks and several related Phellinus species overlap strongly; identification depends partly on the host.",
+      "details": [
+        "Conks are typically shelf- to hoof-shaped and remain attached for years. Record the host tree and examine pore and flesh color. Older records under this name may include several modern species.",
+        "Fomes tinder conks and several related Phellinus species overlap strongly; identification depends partly on the host."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Phellinus igniarius"
+      },
+      "historical": "Phellinus igniarius",
+      "taxonNote": "Historical Phellinus igniarius sensu lato record; exact modern species unresolved.",
+      "idSource": "https://www.mushroomexpert.com/fungionwood/poroid%20fungi/species%20pages/Phellinus%20and%20similar%20spp.htm"
+    },
+    {
+      "taxon": "Phlebia radiata",
+      "name": "Wrinkled crust",
+      "aliases": "radiating phlebia, Phlebia merismoides",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Most conspicuous when moist; visible in multiple seasons",
+      "habitat": "Dead hardwood or conifer logs and stumps",
+      "id": "Orange, pink or tan crust with wrinkles radiating across the wood; no true pores.",
+      "look": "Other Phlebia crusts may have similar colors. Trembling crust often develops a folded hairy edge and more netlike wrinkles.",
+      "details": [
+        "The thin fruit body spreads directly across wood, often in irregular patches. Its folds radiate from growth centers; it rarely makes a distinct cap. Microscopy may be needed for weathered material.",
+        "Other Phlebia crusts may have similar colors. Trembling crust often develops a folded hairy edge and more netlike wrinkles."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/phlebia_radiata.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Phlebia radiata"
+      },
+      "historical": "Phlebia radiata",
+      "inatId": 155122,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=155122",
+        "count": 11,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Trametes conchifer",
+      "name": "Little nest polypore",
+      "aliases": "Poronidulus conchifer, cup polypore",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall",
+      "habitat": "Dead hardwood twigs and branches, especially elm",
+      "id": "Tiny zoned cups that develop small whitish-to-brown bracket caps with white pores.",
+      "look": "Bird’s-nest fungi contain egglike spore packets and do not develop bracket caps with pores.",
+      "details": [
+        "The early cup stage can remain visible at the base of a mature shelf. Caps stay small and tough, often in groups on branches. Cup and bracket stages together are especially useful for identification.",
+        "Bird’s-nest fungi contain egglike spore packets and do not develop bracket caps with pores."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/poronidulus_conchifer.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Poronidulus conchifer"
+      },
+      "historical": "Poronidulus conchifer",
+      "inatId": 880970,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=880970",
+        "count": 16,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Terana coerulea",
+      "name": "Cobalt crust",
+      "aliases": "velvet blue spread, Terana caerulea, Pulcherricium coeruleum",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Fresh growth mainly in warm damp weather; crusts can persist",
+      "habitat": "Undersides of fallen hardwood branches and logs",
+      "id": "Vivid cobalt-blue, velvety crust patches, often with paler edges.",
+      "look": "Green-stained wood from Chlorociboria is usually blue-green; other crusts may need microscopy.",
+      "details": [
+        "This forms a thin coating rather than a cap or stalk. It looks velvety or waxy while moist and becomes brittle when dry. The historical report misspells the older genus and epithet.",
+        "Green-stained wood from Chlorociboria is usually blue-green; other crusts may need microscopy."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "inedible",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Pulchericium caeruleum"
+      },
+      "historical": "Pulchericium caeruleum",
+      "idSource": "https://www.mushroomexpert.com/fungionwood/crust%20and%20parchment/species%20pages/Terana%20coerulea.html"
+    },
+    {
+      "taxon": "Trametes cinnabarina",
+      "name": "Cinnabar-red polypore",
+      "aliases": "Pycnoporus cinnabarinus, northern cinnabar polypore",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Fresh brackets mainly summer–fall; old ones persist",
+      "habitat": "Dead hardwood logs and branches",
+      "id": "Tough orange-red shelf with orange-red pores beneath; no gills.",
+      "look": "Chicken of the woods has different flesh and pore colors; cinnabar chanterelles grow from soil and have blunt ridges.",
+      "details": [
+        "Small semicircular brackets often have a finely textured upper surface. Color can fade as they weather. Check the distinctly pored underside and woody attachment before comparing with other orange mushrooms.",
+        "Chicken of the woods has different flesh and pore colors; cinnabar chanterelles grow from soil and have blunt ridges."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/pycnoporus_cinnabarinus.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Pycnoporous cinnabarinus"
+      },
+      "historical": "Pycnoporous cinnabarinus",
+      "inatId": 974663,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=974663",
+        "count": 46,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Schizophyllum commune",
+      "name": "Splitgill mushroom",
+      "aliases": "split gill, common splitgill",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Year-round; revives with moisture",
+      "habitat": "Dead hardwood twigs, logs and cut wood",
+      "id": "Small hairy gray-white fans with visibly split or doubled gill-like folds below.",
+      "look": "Tiny oyster-like mushrooms have ordinary gills; turkey-tail relatives have pores.",
+      "details": [
+        "Usually lacks a true stalk. The tough caps curl as they dry and reopen when damp. A hand lens helps reveal the longitudinal split along the underside folds.",
+        "Tiny oyster-like mushrooms have ordinary gills; turkey-tail relatives have pores."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/schizophyllum_commune.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Schizophyllum commune"
+      },
+      "historical": "Schizophyllum commune",
+      "inatId": 54573,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=54573",
+        "count": 79,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Stereum hirsutum",
+      "name": "Hairy parchment group",
+      "aliases": "hairy false turkey tail, hairy curtain crust",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Persistent; fresh growth mainly in wet weather",
+      "habitat": "Dead hardwood branches and logs",
+      "id": "Thin hairy yellow-brown to orange brackets with a smooth, non-pored underside.",
+      "look": "True turkey tail has pores; other Stereum species overlap and may require microscopy.",
+      "details": [
+        "The caps can merge into overlapping or wavy tiers. Inspect the fertile lower surface with a lens: it lacks pores and true gills. Historical North American uses of this name may include related species.",
+        "True turkey tail has pores; other Stereum species overlap and may require microscopy."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/stereum_hirsutum.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Stereum hirsutum"
+      },
+      "historical": "Stereum hirsutum",
+      "taxonNote": "Retained as a group because historical North American Stereum names can cover multiple species.",
+      "inatId": 55501,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=55501",
+        "count": 2,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Stereum striatum",
+      "name": "Silky parchment",
+      "aliases": "silky false turkey tail",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Year-round persistence",
+      "habitat": "Small dead hardwood branches, especially hornbeam",
+      "id": "Small thin brackets with silky, radially lined tops and a smooth underside.",
+      "look": "Other parchment fungi are similar; true turkey tails have pores instead of a smooth lower surface.",
+      "details": [
+        "Look for fine radial lines or silky hairs above and an unbroken fertile surface below. Host information is useful, but microscopic examination may be necessary to confirm a species.",
+        "Other parchment fungi are similar; true turkey tails have pores instead of a smooth lower surface."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "inedible",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Stereum striatum"
+      },
+      "historical": "Stereum striatum",
+      "idSource": "https://www.mushroomexpert.com/fungionwood/crust%20and%20parchment/species%20pages/Stereum%20striatum.htm"
+    },
+    {
+      "taxon": "Trametes hirsuta",
+      "name": "Hairy bracket",
+      "aliases": "hairy turkey tail, Coriolus hirsutus",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Fresh growth summer–fall; old brackets persist",
+      "habitat": "Dead hardwood logs and stumps",
+      "id": "Whitish or gray brackets with a densely hairy top and small pale pores below.",
+      "look": "Turkey tail usually has more strongly contrasting color bands; other pale Trametes require close pore and hair comparison.",
+      "details": [
+        "Caps often have a brownish margin and subtle concentric zones. The pore surface has roughly 3–4 pores per millimeter. Flesh is thin but corky and tough.",
+        "Turkey tail usually has more strongly contrasting color bands; other pale Trametes require close pore and hair comparison."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/trametes_hirsuta.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Trametes hirsuta"
+      },
+      "historical": "Trametes hirsuta",
+      "inatId": 116695,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=116695",
+        "count": 2,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Phaeotremella foliacea",
+      "name": "Brown witch’s butter group",
+      "aliases": "leafy brain, brown jelly, Tremella foliacea",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall after rain; sometimes winter thaws",
+      "habitat": "Dead wood, associated with other wood-decaying fungi",
+      "id": "A brown gelatinous mass with leaflike folds and no distinct stem.",
+      "look": "Wood ears form more defined ear-shaped lobes; Exidia jellies may be more cushionlike or brainlike.",
+      "details": [
+        "Older books grouped several brown leafy jelly fungi under Tremella foliacea. Current concepts separate conifer-associated P. foliacea from hardwood-associated P. frondosa and others. The old record confirms the group, not a modern species.",
+        "Wood ears form more defined ear-shaped lobes; Exidia jellies may be more cushionlike or brainlike."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "unknown",
+      "idSource": "https://www.mushroomexpert.com/phaeotremella_frondosa.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Tremella foliacea"
+      },
+      "historical": "Tremella foliacea",
+      "taxonNote": "Historical leafy-jelly group. The representative photo does not establish the exact species in the old local record.",
+      "inatId": 901819,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=901819",
+        "count": 3,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Tremella mesenterica",
+      "name": "Witch’s butter",
+      "aliases": "yellow brain, golden jelly",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Wet weather from spring–fall; also during thaws",
+      "habitat": "Dead hardwood branches, parasitizing crust fungi",
+      "id": "Bright yellow to orange gelatinous folds that shrink and harden when dry.",
+      "look": "Naematelia aurantia is a similar yellow jelly associated with Stereum; conifer jellies belong to other groups.",
+      "details": [
+        "The folded mass has no stem, gills or pores. Record the host wood and any crust fungus beside it; color and jelly texture alone do not separate all yellow jellies.",
+        "Naematelia aurantia is a similar yellow jelly associated with Stereum; conifer jellies belong to other groups."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "unknown",
+      "idSource": "https://www.mushroomexpert.com/tremella_mesenterica.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Tremella mesenterica"
+      },
+      "historical": "Tremella mesenterica",
+      "inatId": 48529,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=48529",
+        "count": 3,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Tyromyces chioneus",
+      "name": "White cheese polypore",
+      "aliases": "white cheese bracket, Tyromyces albellus",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Dead hardwood, especially birch",
+      "id": "White semicircular brackets with white pores and soft, watery flesh when fresh.",
+      "look": "Other white polypores can be very similar; host, bruising, texture and microscopic features help distinguish them.",
+      "details": [
+        "Caps can become yellowish or brownish with age, and the moist flesh dries much harder. The small pores do not usually bruise strongly. A fresh specimen is much more useful than a dried weathered shelf.",
+        "Other white polypores can be very similar; host, bruising, texture and microscopic features help distinguish them."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/tyromyces_chioneus.html",
+      "record": {
+        "type": "survey",
+        "label": "Asylum Lake survey · 2000",
+        "url": "https://files.wmich.edu/s3fs-public/attachments/u486/2015/KNC_2001.pdf#page=94",
+        "recordedAs": "Tyromyces chioneus"
+      },
+      "historical": "Tyromyces chioneus",
+      "inatId": 130946,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=130946",
+        "count": 5,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Pleurotus citrinopileatus",
+      "name": "Golden oyster mushroom",
+      "aliases": "yellow oyster, golden oyster",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late spring–fall",
+      "habitat": "Clusters on dead hardwood logs and standing dead trees",
+      "id": "Bright yellow caps, pale descending gills and white stems joining in clusters.",
+      "look": "Toxic jack-o’-lanterns also have descending gills but usually orange flesh and stalks. Yellow caps alone do not establish an oyster identification.",
+      "details": [
+        "Caps often become funnel-shaped and fade with age. This is an introduced, naturalized species now found growing wild in the region; its presence does not establish native status. Confirm wood attachment and the complete underside.",
+        "Toxic jack-o’-lanterns also have descending gills but usually orange flesh and stalks. Yellow caps alone do not establish an oyster identification."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://www.mushroomexpert.com/pleurotus_citrinopileatus.html",
+      "taxonNote": "Introduced / naturalized; wild-growing, not native.",
+      "inatId": 504060,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=504060",
+        "count": 233,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=504060",
+        "count": 233,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/pleurotus-ostreatus/"
+    },
+    {
+      "taxon": "Artomyces pyxidatus",
+      "name": "Crown-tipped coral",
+      "aliases": "crown coral, Clavicorona pyxidata",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–early fall",
+      "habitat": "Decaying hardwood logs",
+      "id": "Cream-to-tan coral branches ending in tiny crownlike cups with points around the rim.",
+      "look": "Some other coral fungi cause illness. Hericium has downward teeth; many Ramaria grow from soil and lack crown-shaped tips.",
+      "details": [
+        "Use a hand lens to inspect the branch tips. The wood substrate and repeated crown structure are important together. Although considered edible with correct ID and cooking, this species can cause digestive upset.",
+        "Some other coral fungi cause illness. Hericium has downward teeth; many Ramaria grow from soil and lack crown-shaped tips."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://mdc.mo.gov/discover-nature/field-guide/crown-tipped-coral",
+      "inatId": 334704,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=334704",
+        "count": 108,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=334704",
+        "count": 108,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/crown-tipped-coral"
+    },
+    {
+      "taxon": "Ischnoderma resinosum",
+      "name": "Resinous polypore",
+      "aliases": "resinous bracket, benzoin bracket",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late summer–fall",
+      "habitat": "Dead hardwood logs and stumps",
+      "id": "Thick brown velvety brackets with a pale growing margin and white pores that bruise brown.",
+      "look": "Young Ganoderma and other brown brackets differ in crust, flesh and pore details.",
+      "details": [
+        "Fresh brackets may exude amber droplets. They become hard and dark with age. Examine a fresh growing edge and the pore surface; this guide does not endorse collection for food.",
+        "Young Ganoderma and other brown brackets differ in crust, flesh and pore details."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "expert",
+      "idSource": "https://www.mushroomexpert.com/ischnoderma_resinosum.html",
+      "inatId": 130919,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=130919",
+        "count": 81,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=130919",
+        "count": 81,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Apioperdon pyriforme",
+      "name": "Pear-shaped puffball",
+      "aliases": "stump puffball, Lycoperdon pyriforme",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Clusters on decaying logs, stumps and buried wood",
+      "id": "Small pear-shaped puffballs with fine surface granules and a narrowed base.",
+      "look": "Amanita buttons contain developing cap or gill structures; earthballs have a tougher rind and often dark interiors.",
+      "details": [
+        "Unlike many puffballs, these grow from wood, though the wood may be buried. Every specimen must be sliced lengthwise; only correctly identified young specimens with uniformly white flesh are considered edible. White flesh alone is insufficient.",
+        "Amanita buttons contain developing cap or gill structures; earthballs have a tougher rind and often dark interiors."
+      ],
+      "traits": [
+        "none",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://www.mushroomexpert.com/lycoperdon_pyriforme.html",
+      "inatId": 972793,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=972793",
+        "count": 79,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=972793",
+        "count": 79,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/pear-shaped-puffball"
+    },
+    {
+      "taxon": "Meripilus sumstinei",
+      "name": "Black-staining polypore",
+      "aliases": "blackening polypore, giant black-staining polypore",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Roots and bases of hardwoods, especially oak",
+      "id": "Large rosettes of tan fans with pale pores that turn black after bruising.",
+      "look": "Hen of the woods has smaller fronds; Berkeley’s polypore has thicker pale caps. Neither characteristically blackens in the same way.",
+      "details": [
+        "The broad fans join at a common base. Check bruising on both the edge and the pore surface, allowing time for darkening. Only tender young tissue is used as food after a complete identification.",
+        "Hen of the woods has smaller fronds; Berkeley’s polypore has thicker pale caps. Neither characteristically blackens in the same way."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://mdc.mo.gov/discover-nature/field-guide/black-staining-polypore",
+      "inatId": 125738,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=125738",
+        "count": 61,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=125738",
+        "count": 61,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/black-staining-polypore"
+    },
+    {
+      "taxon": "Laetiporus cincinnatus",
+      "name": "White-pored chicken of the woods",
+      "aliases": "white-pored sulfur shelf, rosette chicken",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late spring–fall",
+      "habitat": "Bases and buried roots of hardwoods, often oak",
+      "id": "Peach-orange rosettes with white pores underneath and no gills.",
+      "look": "Yellow-pored L. sulphureus is a different chicken-of-the-woods species. Jack-o’-lanterns have true gills.",
+      "details": [
+        "Often emerges at ground level from roots, forming a rosette rather than high shelves. Inspect the fresh pore color, growth site and host. Cook only expertly identified fresh specimens; even correctly identified chicken mushrooms can cause reactions.",
+        "Yellow-pored L. sulphureus is a different chicken-of-the-woods species. Jack-o’-lanterns have true gills."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/laetiporus-sulphureus/",
+      "inatId": 487301,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=487301",
+        "count": 45,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=487301",
+        "count": 45,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/laetiporus-sulphureus/"
+    },
+    {
+      "taxon": "Desarmillaria caespitosa",
+      "name": "Ringless honey mushroom",
+      "aliases": "ringless honey, stumper; formerly Armillaria tabescens in North America",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late summer–fall",
+      "habitat": "Dense clusters from hardwood roots and stumps",
+      "id": "Honey-brown caps, pale descending gills and no stem ring; spore print white.",
+      "look": "Deadly Galerina, poisonous jack-o’-lanterns and other clustered brown mushrooms can grow nearby.",
+      "details": [
+        "Stems usually taper and join at the base. The lack of a ring distinguishes this group from many honey mushrooms but does not prove identification. Thorough cooking and expert confirmation are essential; digestive reactions are possible.",
+        "Deadly Galerina, poisonous jack-o’-lanterns and other clustered brown mushrooms can grow nearby."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/armillaria-mellea/",
+      "inatId": 1238700,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1238700",
+        "count": 29,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1238700",
+        "count": 29,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/armillaria-mellea/"
+    },
+    {
+      "taxon": "Fomitopsis betulina",
+      "name": "Birch polypore",
+      "aliases": "razor strop fungus, Piptoporus betulinus",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Fresh growth summer–fall; brackets persist",
+      "habitat": "Dead or dying birch trunks and branches",
+      "id": "Rounded pale-brown cap with a white pore surface and a thick white interior.",
+      "look": "Other pale brackets grow on different hosts; confirm that the tree is birch and inspect the underside.",
+      "details": [
+        "Usually a single smooth bracket or a few spaced brackets, attached by a short thick base. The cap edge forms a rounded rim around the pores. Flesh becomes corky and tough.",
+        "Other pale brackets grow on different hosts; confirm that the tree is birch and inspect the underside."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/fomitopsis_betulina.html",
+      "inatId": 775410,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=775410",
+        "count": 26,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=775410",
+        "count": 26,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Collybia nuda",
+      "name": "Wood blewit",
+      "aliases": "blewit, blue stalk, Lepista nuda, Clitocybe nuda",
+      "seasons": [
+        "Fall"
+      ],
+      "months": "Mostly cool fall weather",
+      "habitat": "Leaf litter, compost, mulch and woodland edges",
+      "id": "Lilac-to-tan cap, pale violet gills and a sturdy stem; spore print pale pinkish buff.",
+      "look": "Purple Cortinarius have rusty spores and often a cobwebby veil; other purple mushrooms can be poisonous.",
+      "details": [
+        "Fresh color can fade substantially with age. Check gill attachment, the entire stalk and a mature spore print together. Only expertly confirmed blewits should be cooked for food; purple color is never sufficient.",
+        "Purple Cortinarius have rusty spores and often a cobwebby veil; other purple mushrooms can be poisonous."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "grass"
+        ]
+      ],
+      "status": "edible",
+      "idSource": "https://mdc.mo.gov/discover-nature/field-guide/blewit",
+      "inatId": 1525548,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1525548",
+        "count": 20,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1525548",
+        "count": 20,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/blewit"
+    },
+    {
+      "taxon": "Sarcomyxa serotina",
+      "name": "Late oyster",
+      "aliases": "late fall oyster, olive oysterling, Panellus serotinus",
+      "seasons": [
+        "Fall",
+        "Winter"
+      ],
+      "months": "Late fall and winter thaws",
+      "habitat": "Dead hardwood logs",
+      "id": "Olive-green to brown lateral caps with pale yellowish gills and a short off-center stalk.",
+      "look": "True oysters lack this combination of olive cap and yellowish gills; other oyster-shaped fungi may be unsafe.",
+      "details": [
+        "Caps can be sticky when wet and grow in overlapping shelves. A short yellowish stem may bear dark speckles. This guide treats it as requiring specialist advice rather than a beginner edible.",
+        "True oysters lack this combination of olive cap and yellowish gills; other oyster-shaped fungi may be unsafe."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "expert",
+      "idSource": "https://www.mushroomexpert.com/panellus_serotinus.html",
+      "inatId": 63585,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=63585",
+        "count": 19,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=63585",
+        "count": 19,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Ganoderma applanatum",
+      "name": "Artist’s conk group",
+      "aliases": "artist’s bracket, artist’s fungus",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Perennial brackets visible year-round",
+      "habitat": "Living or dead hardwood trunks and logs",
+      "id": "Hard brown shelf with a white pore surface that readily marks brown when scratched.",
+      "look": "Other dull-surfaced Ganoderma, including G. megaloma, can be very similar; microscopy may be needed.",
+      "details": [
+        "The top is generally dull rather than varnished, and the interior is brown with layered tubes. Brown spores can dust nearby surfaces. The writable underside is a useful group clue, not an exact species test.",
+        "Other dull-surfaced Ganoderma, including G. megaloma, can be very similar; microscopy may be needed."
+      ],
+      "traits": [
+        "pores",
+        "wood"
+      ],
+      "status": "inedible",
+      "idSource": "https://www.mushroomexpert.com/ganoderma_applanatum.html",
+      "taxonNote": "Artist’s conks include similar species; this entry uses the name attached to the local observation records.",
+      "inatId": 48473,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=48473",
+        "count": 17,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=48473",
+        "count": 17,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Suillus americanus",
+      "name": "Chicken-fat bolete",
+      "aliases": "American slipperycap, chicken fat mushroom",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Soil beneath eastern white pine",
+      "id": "Sticky yellow cap with reddish-brown flecks; yellow pores and a yellow stem with glandular dots.",
+      "look": "Other Suillus species differ in pine association, veil and pore details. Do not use yellow color alone.",
+      "details": [
+        "Look for five-needle white pine nearby and small pores rather than gills. Slime and veil remnants vary with weather and age. Some people develop skin irritation when handling it; specialist ID is advised before any food use.",
+        "Other Suillus species differ in pine association, veil and pore details. Do not use yellow color alone."
+      ],
+      "traits": [
+        "pores",
+        "soil"
+      ],
+      "status": "expert",
+      "idSource": "https://www.mushroomexpert.com/suillus_americanus.html",
+      "inatId": 125716,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=125716",
+        "count": 15,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=125716",
+        "count": 15,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Lactarius indigo",
+      "name": "Indigo milkcap",
+      "aliases": "indigo milky, blue milk mushroom",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Woodland soil near oak and pine",
+      "id": "Blue cap, gills and flesh; damaged fresh gills release blue latex that can turn greenish.",
+      "look": "Other milkcaps and purple-gilled mushrooms differ in latex and spore color. Old dry specimens may release little milk.",
+      "details": [
+        "Caps develop a central depression and often concentric zones. The brittle flesh, blue latex and cream spore print must be assessed together. Edible status applies only to correctly identified and cooked specimens.",
+        "Other milkcaps and purple-gilled mushrooms differ in latex and spore color. Old dry specimens may release little milk."
+      ],
+      "traits": [
+        "gills",
+        "soil"
+      ],
+      "status": "edible",
+      "idSource": "https://mdc.mo.gov/discover-nature/field-guide/indigo-milky",
+      "inatId": 120951,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=120951",
+        "count": 14,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=120951",
+        "count": 14,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/indigo-milky"
+    },
+    {
+      "taxon": "Scleroderma citrinum",
+      "name": "Common earthball",
+      "aliases": "pigskin poison puffball, common earth ball",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Woodland soil, paths and banks",
+      "id": "Yellow-brown ball with a thick, warty or cracked rind; mature interior dark purple-brown to black.",
+      "look": "Edible puffballs have different rinds and interiors. Young earthballs can still be pale inside, so white flesh alone does not prove safety.",
+      "details": [
+        "Usually lacks a distinct cap and stalk. Cut appearance changes with age, and the outer skin is noticeably tough. Poisonous: do not eat or confuse with young puffballs.",
+        "Edible puffballs have different rinds and interiors. Young earthballs can still be pale inside, so white flesh alone does not prove safety."
+      ],
+      "traits": [
+        "none",
+        "soil"
+      ],
+      "status": "toxic",
+      "idSource": "https://www.mushroomexpert.com/scleroderma_citrinum.html",
+      "inatId": 55927,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=55927",
+        "count": 13,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=55927",
+        "count": 13,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/pigskin-puffball-common-earthball"
+    },
+    {
+      "taxon": "Stropharia rugosoannulata",
+      "name": "Wine cap",
+      "aliases": "king stropharia, garden giant, burgundy mushroom, composter mushroom",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall after rain",
+      "habitat": "Wood chips, straw, gardens and wood-rich soil",
+      "id": "Wine-red to tan cap, pale gills becoming gray-purple, and a substantial wrinkled stem ring.",
+      "look": "Other Stropharia, Agrocybe and poisonous gilled mushrooms overlap; check mature spore color and the complete stem.",
+      "details": [
+        "The cap often fades from burgundy to tan. Gills darken as purple-brown spores mature, and the thick ring may have toothlike points. Cultivated and spontaneous occurrences both exist; local wild records do not establish native status.",
+        "Other Stropharia, Agrocybe and poisonous gilled mushrooms overlap; check mature spore color and the complete stem."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil",
+          "grass"
+        ]
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/stropharia-rugoso-annulata/",
+      "inatId": 119151,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=119151",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=119151",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/stropharia-rugoso-annulata/"
+    },
+    {
+      "taxon": "Hericium americanum",
+      "name": "Bear’s head tooth",
+      "aliases": "bear’s head fungus, branched lion’s mane",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late summer–fall",
+      "habitat": "Dead hardwood logs, stumps and wounds on living hardwoods",
+      "id": "White branched mass with long hanging teeth in tufts at branch ends.",
+      "look": "Lion’s mane is mostly unbranched; coral tooth has a more open structure and shorter teeth along branches.",
+      "details": [
+        "Check the underlying branching and tooth placement. Smooth-branched coral fungi are different and may be unsafe. Fresh specimens are white, becoming yellow with age. Expertly identified Hericium are edible when cooked.",
+        "Lion’s mane is mostly unbranched; coral tooth has a more open structure and shorter teeth along branches."
+      ],
+      "traits": [
+        "teeth",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/hericium-erinaceus/",
+      "inatId": 124335,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=124335",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=124335",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/hericium-erinaceus/"
+    },
+    {
+      "taxon": "Pleurotus pulmonarius",
+      "name": "Summer oyster mushroom",
+      "aliases": "pale oyster, lung oyster, phoenix oyster",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Warm months from late spring–fall",
+      "habitat": "Dead hardwood logs and trunks",
+      "id": "Pale cream-to-white fan-shaped caps with descending gills and a short lateral stem.",
+      "look": "Angel wings and other pale wood fungi may be confused with oysters; verify host, flesh and complete structure.",
+      "details": [
+        "Usually paler and associated with warmer weather than the familiar gray oyster. Several Pleurotus species overlap in appearance; seasonal timing alone does not establish a species.",
+        "Angel wings and other pale wood fungi may be confused with oysters; verify host, flesh and complete structure."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/pleurotus-ostreatus/",
+      "inatId": 136399,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=136399",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=136399",
+        "count": 12,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/pleurotus-ostreatus/"
+    },
+    {
+      "taxon": "Pluteus cervinus",
+      "name": "Deer mushroom group",
+      "aliases": "deer shield, fawn mushroom",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Spring–fall",
+      "habitat": "Decaying hardwood logs, stumps and buried wood",
+      "id": "Brown cap above free gills that change from white to pink; pinkish-brown spore print.",
+      "look": "Poisonous Entoloma can have pink spores but usually attached gills. Other Pluteus species require microscopy.",
+      "details": [
+        "Lift the cap gently to check whether the mature gills stop short of the stem. There is no ring or volva. This is a species complex; a brown cap, wood substrate or pink spores alone cannot establish an edible ID.",
+        "Poisonous Entoloma can have pink spores but usually attached gills. Other Pluteus species require microscopy."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "status": "expert",
+      "idSource": "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "inatId": 60782,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=60782",
+        "count": 11,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=60782",
+        "count": 11,
+        "checked": "2026-09-27"
+      }
+    },
+    {
+      "taxon": "Hericium erinaceus",
+      "name": "Lion’s mane",
+      "aliases": "bearded tooth, pom-pom mushroom, satyr’s beard, old man’s beard",
+      "seasons": [
+        "Fall",
+        "Summer"
+      ],
+      "months": "Late summer–fall",
+      "habitat": "Living or dead hardwoods, particularly oak, beech and maple",
+      "id": "Compact white rounded mass with long downward-pointing teeth and little obvious branching.",
+      "look": "Bear’s head tooth and coral tooth are branched; smooth coral fungi do not have the same hanging teeth.",
+      "details": [
+        "Inspect the attachment and interior structure. Long teeth hang from a more solid cushion, which yellows with age. Expertly identified fresh Hericium are edible when cooked.",
+        "Bear’s head tooth and coral tooth are branched; smooth coral fungi do not have the same hanging teeth."
+      ],
+      "traits": [
+        "teeth",
+        "wood"
+      ],
+      "status": "edible",
+      "idSource": "https://midwestmycology.org/hericium-erinaceus/",
+      "inatId": 49158,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=49158",
+        "count": 4,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=49158",
+        "count": 4,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://midwestmycology.org/hericium-erinaceus/"
+    },
+    {
+      "taxon": "Amanita muscaria",
+      "name": "Fly agaric group",
+      "aliases": "fly amanita, yellow-orange fly agaric; eastern yellow form often called var. guessowii",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Woodland soil near trees",
+      "id": "Warted yellow, orange or red cap; white gills, a skirtlike ring and a bulbous stem base with veil remnants.",
+      "look": "Other Amanita, including deadly species, can look similar. Rain may remove cap warts and damage the ring.",
+      "details": [
+        "Excavate the entire base for study and record all veil structures. Eastern yellow-orange forms belong to a complex whose names are under revision. Toxic, with unpredictable neurological effects; do not eat.",
+        "Other Amanita, including deadly species, can look similar. Rain may remove cap warts and damage the ring."
+      ],
+      "traits": [
+        "gills",
+        "soil"
+      ],
+      "status": "toxic",
+      "idSource": "https://www.mushroomexpert.com/amanita_muscaria_guessowii.html",
+      "taxonNote": "Species complex; the yellow-orange eastern form is often recorded as A. muscaria var. guessowii.",
+      "inatId": 48715,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=48715",
+        "count": 67,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=48715",
+        "count": 67,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://www.fda.gov/food/hfp-constituent-updates/fda-alerts-industry-and-consumers-about-use-amanita-muscaria-or-its-constituents-food"
+    },
+    {
+      "taxon": "Neogyromitra brunnea",
+      "name": "Brown false morel",
+      "aliases": "elephant-ear false morel, Gyromitra brunnea",
+      "seasons": [
+        "Spring"
+      ],
+      "months": "Spring",
+      "habitat": "Hardwood forest soil and decaying woody material",
+      "id": "Brown lobed or saddlelike cap with folded surfaces rather than a true morel’s honeycomb pits.",
+      "look": "True morels have pits and ridges; other false morels overlap and may contain dangerous toxins.",
+      "details": [
+        "Inspect a lengthwise cut, cap folds and attachment. The cap can have several pointed, ear-shaped lobes. Potentially toxic: this guide treats false morels as do-not-eat mushrooms and provides no preparation method.",
+        "True morels have pits and ridges; other false morels overlap and may contain dangerous toxins."
+      ],
+      "traits": [
+        "none",
+        "soil"
+      ],
+      "status": "potentially-toxic",
+      "idSource": "https://www.mushroomexpert.com/gyromitra_brunnea.html",
+      "inatId": 1613035,
+      "communityRecord": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1613035",
+        "count": 25,
+        "checked": "2026-09-27"
+      },
+      "record": {
+        "type": "community",
+        "label": "Local Research Grade observations",
+        "url": "https://www.inaturalist.org/observations?place_id=2373%2C2241%2C2682&quality_grade=research&taxon_id=1613035",
+        "count": 25,
+        "checked": "2026-09-27"
+      },
+      "edibilitySource": "https://mdc.mo.gov/discover-nature/field-guide/morels"
+    }
+  ]
+}

@@ -2,14 +2,22 @@
 
 A seasonal mushroom field guide for southwest Michigan, with example photos, common names, identification characteristics, lookalikes, and clearly marked edibility information.
 
-## Hosting
+## Fixed publishing address
 
-This is a static website. In GitHub Settings → Pages, select **Deploy from a branch**, then **main** and **/(root)**. The `.nojekyll` file publishes the HTML directly. Future changes to `index.html` on `main` update the published site.
+**https://stumpwizard.github.io/wild-mushrooms-sw-michigan/**
+
+This is the production address for the latest guide and all future updates, as requested on September 27, 2026. This repository is the authoritative source. Keep the repository name and Pages address unchanged unless the owner explicitly requests a change.
+
+GitHub Pages publishes automatically from **main → /(root)**. The `.nojekyll` file publishes the static HTML directly. Update the root `index.html` and supporting `data/` files on `main`, then confirm the Pages deployment succeeds. The former ChatGPT Sites copy is no longer the publication target.
 
 ## How it works
 
 - All application code and styles are in `index.html`; no build step or server is required.
-- Example photos and attribution are requested from the public iNaturalist API.
+- The guide contains 63 mushrooms and species groups, local occurrence references, medicinal-use evidence notes, and spore-print, foraging, handling and cooking guidance.
+- Example photos use credited iNaturalist images, with the public iNaturalist API as a fallback.
+- Supporting source comparisons and medicinal notes are included in `data/`.
+- A first-visit safety acknowledgement is remembered in the visitor’s browser when available.
+- Search supports common names, scientific names, combined names, and mobile Search/Enter submission.
 - A visitor’s uploaded photo stays in their browser. Visible-feature matching is a comparison tool, not automated photo identification.
 
 ## Safety

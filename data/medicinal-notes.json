@@ -1,0 +1,225 @@
+{
+  "reviewed": "2026-09-27",
+  "meaning": "Documented traditional use or human investigation, not proven efficacy, a safe ID, a recommendation, or edibility. Laboratory activity alone does not qualify.",
+  "species": {
+    "Trametes versicolor": {
+      "category": "Human studies",
+      "reportedUse": "Turkey tail has a history in traditional Chinese medicine. PSK, a specific extract made from cultivated mycelium, has been used alongside conventional cancer treatment in Japan.",
+      "evidence": "Human studies concern particular extracts and cancer settings. They do not show that eating wild turkey tail, drinking homemade tea, or taking an arbitrary supplement treats cancer. The U.S. FDA has not approved turkey tail or PSK as a cancer treatment.",
+      "caution": "Discuss any product with the oncology team before use during cancer care. This woody mushroom remains unsuitable for eating whole.",
+      "sources": [
+        {
+          "label": "National Cancer Institute: medicinal mushrooms",
+          "url": "https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Hericium erinaceus": {
+      "category": "Human studies",
+      "reportedUse": "Lion’s mane has traditional medicinal uses and is being studied for memory, mood and stress.",
+      "evidence": "Small human trials have produced preliminary, mixed findings. They do not establish it as a treatment for dementia, depression or nerve injury. Research on H. erinaceus cannot automatically be applied to bear’s head tooth or coral tooth.",
+      "caution": "Supplement studies report stomach discomfort, nausea and skin rash. Discuss supplements and medicines with a clinician.",
+      "sources": [
+        {
+          "label": "Memorial Sloan Kettering: lion’s mane",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/lions-mane-mushroom"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Grifola frondosa": {
+      "category": "Human studies",
+      "reportedUse": "Maitake is used in traditional Asian medicine for blood-sugar and blood-pressure concerns. Its extracts have also been investigated for effects on immune cells.",
+      "evidence": "Human evidence is limited; immune-marker changes and small studies do not establish a cancer treatment or a replacement for diabetes care.",
+      "caution": "Maitake supplements may increase warfarin’s effects and the effects of blood-sugar-lowering medicines. Review use with the prescribing clinician.",
+      "sources": [
+        {
+          "label": "Memorial Sloan Kettering: maitake",
+          "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/maitake"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Pleurotus ostreatus": {
+      "category": "Human studies",
+      "reportedUse": "Oyster mushroom foods and powders have been investigated for blood glucose, blood fats and other metabolic measures.",
+      "evidence": "In a small controlled meal study, some measures changed, but the primary glucose outcome did not improve. Findings are insufficient to recommend it as treatment for diabetes or high cholesterol; ordinary food and experimental preparations are not interchangeable.",
+      "caution": "Continue prescribed care. These findings concern P. ostreatus and do not establish the same effects for golden or summer oysters.",
+      "sources": [
+        {
+          "label": "Controlled human meal study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34505919/"
+        },
+        {
+          "label": "Review of clinical trials",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32316680/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Schizophyllum commune": {
+      "category": "Human studies",
+      "reportedUse": "Schizophyllan, a purified compound produced in culture by this fungus, has been studied alongside standard cancer treatment.",
+      "evidence": "Evidence concerns a manufactured preparation, not collected splitgill mushrooms. One randomized gastric-cancer trial found no overall difference in three-year survival.",
+      "caution": "This is not a home cancer remedy. A medicinal-research badge does not change the guide’s nonedible-as-a-table-mushroom label.",
+      "sources": [
+        {
+          "label": "Randomized trial of schizophyllan",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/6238190/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Tremella mesenterica": {
+      "category": "Human studies",
+      "reportedUse": "Witch’s butter has been investigated for metabolic and immune effects and, in a small human trial, for Helicobacter pylori infection.",
+      "evidence": "The controlled trial did not show effective eradication of H. pylori, even though patients reported symptom relief. Animal or laboratory findings do not establish other treatment benefits in people.",
+      "caution": "Do not substitute it for prescribed infection treatment. This is T. mesenterica, not the different snow fungus T. fuciformis.",
+      "sources": [
+        {
+          "label": "Controlled H. pylori trial",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22339708/"
+        },
+        {
+          "label": "Metabolic study in rats",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16289235/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Fomitopsis betulina": {
+      "category": "Traditional use",
+      "reportedUse": "Birch polypore is documented in European folk medicine for digestive complaints and historical wound dressings. Extracts have been investigated for antimicrobial and anti-inflammatory activity.",
+      "evidence": "The linked review describes traditional practices and mostly laboratory or animal work. This does not establish a safe, effective treatment in people.",
+      "caution": "Do not apply wild fungus to a wound or use it to replace treatment for infection. Traditional use does not supply a reliable dose or demonstrate safety.",
+      "sources": [
+        {
+          "label": "Review of birch-polypore history and research",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380686/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Fomes fomentarius": {
+      "category": "Traditional use",
+      "reportedUse": "Processed tinder-conk material was historically used as a wound sponge to help control bleeding. Extracted fibers have also been investigated as medical materials.",
+      "evidence": "Historical use and research on processed fibers do not validate applying a wild conk to skin. This guide’s local record covers a species group; work on F. fomentarius does not establish equivalent effects for every member.",
+      "caution": "Use proper first aid and medical care for wounds. Wild mushroom tissue is not a sterile dressing.",
+      "sources": [
+        {
+          "label": "Review of tinder-conk fibers",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37017659/"
+        },
+        {
+          "label": "Review of traditional wound uses",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946334/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Ganoderma applanatum": {
+      "category": "Traditional use",
+      "reportedUse": "Artist’s conk has traditional medicinal uses in Asia. Its compounds are investigated for effects on inflammation, metabolism and tumor cells.",
+      "evidence": "These uses and experimental findings do not establish a treatment benefit in people. Artist’s conk is not the same species as reishi; evidence about reishi cannot be transferred to this entry.",
+      "caution": "The guide includes an artist’s-conk group, and closely related species may be difficult to distinguish. Do not assume an identified conk matches a studied preparation.",
+      "sources": [
+        {
+          "label": "Species-specific research review",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38884263/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Phellinus igniarius": {
+      "category": "Traditional use",
+      "reportedUse": "Fungi reported as P. igniarius have a history in Asian medicine. Their polysaccharides and other compounds have been studied for immune effects and activity against tumor cells.",
+      "evidence": "Laboratory activity does not establish cancer-treatment effectiveness in people. The historical SW Michigan record uses P. igniarius broadly and does not resolve the exact modern species.",
+      "caution": "Do not transfer findings from Asian preparations, P. linteus, or other Phellinus relatives to a locally collected conk.",
+      "sources": [
+        {
+          "label": "Review of P. igniarius research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30452190/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Coprinus comatus": {
+      "category": "Traditional use",
+      "reportedUse": "Shaggy mane appears in medicinal-mushroom literature; much experimental work investigates blood-sugar regulation.",
+      "evidence": "The cited reviews describe compounds, laboratory studies and animal research. They do not establish a reliable diabetes treatment in people.",
+      "caution": "Do not use mushroom preparations in place of diabetes medicines or adjust a prescription based on these findings. Supplements and food use require separate safety assessment.",
+      "sources": [
+        {
+          "label": "Research on shaggy mane",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32479019/"
+        },
+        {
+          "label": "Review of properties and hazards",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7754439/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Calvatia gigantea": {
+      "category": "Traditional use",
+      "reportedUse": "Giant puffball is documented as a traditional medicinal fungus. Modern research explores wound healing and biologically active compounds.",
+      "evidence": "Traditional reports and experimental activity do not establish that collected puffballs treat wounds, infections or cancer in people.",
+      "caution": "Do not apply puffball material to wounds or inhale mature spores. The edible label applies only to correctly identified young specimens, not spore powder.",
+      "sources": [
+        {
+          "label": "Review of giant-puffball medicinal research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38967208/"
+        },
+        {
+          "label": "CDC: illness from puffball-spore inhalation",
+          "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00032029.htm"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Lycoperdon perlatum": {
+      "category": "Traditional use",
+      "reportedUse": "An ethnomycological study in Andorra documents historical use of gem-studded puffballs for wounds and skin complaints.",
+      "evidence": "Interviews establish that a traditional practice existed; they do not demonstrate medical effectiveness or safety.",
+      "caution": "Do not apply spores to wounds or inhale them. CDC documented serious respiratory illness after inhalation of L. perlatum spores.",
+      "sources": [
+        {
+          "label": "Andorran ethnomycology study",
+          "url": "https://link.springer.com/article/10.1186/s13002-025-00829-6"
+        },
+        {
+          "label": "CDC: puffball-spore inhalation",
+          "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00032029.htm"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Laetiporus sulphureus": {
+      "category": "Traditional use",
+      "reportedUse": "Chicken of the woods has reported folk-medicine uses for cough, digestive complaints and rheumatic symptoms.",
+      "evidence": "Laboratory studies also investigate its compounds, including effects on cancer cells. Effects in a dish do not show that eating the mushroom or taking an extract treats cancer or other disease.",
+      "caution": "These reports concern L. sulphureus and do not establish the same properties for L. cincinnatus. Correctly identified chicken mushrooms can still cause adverse food reactions.",
+      "sources": [
+        {
+          "label": "Study describing traditional uses and cell experiments",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38061441/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    },
+    "Armillaria mellea": {
+      "category": "Traditional use",
+      "reportedUse": "Honey-mushroom preparations have been used in Chinese medicine for insomnia and related nervous-system complaints.",
+      "evidence": "The linked experimental study used fermented material in rats. It does not establish the effectiveness or safety of locally collected mushrooms for insomnia. Older A. mellea literature can cover a broader species group.",
+      "caution": "Do not use wild honey mushrooms as a sedative. These findings also do not establish medicinal effects for the separate ringless honey mushroom in this guide.",
+      "sources": [
+        {
+          "label": "Traditional-use context and sleep study in rats",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34984694/"
+        }
+      ],
+      "reviewed": "2026-09-27"
+    }
+  }
+}
