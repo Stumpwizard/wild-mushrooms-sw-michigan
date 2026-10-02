@@ -1,0 +1,1034 @@
+{
+  "title": "Pholiota and historical Pholiota names in southwest Michigan",
+  "reviewed": "2026-10-02",
+  "scope": {
+    "counties": [
+      "Allegan",
+      "Barry",
+      "Berrien",
+      "Branch",
+      "Calhoun",
+      "Cass",
+      "Kalamazoo",
+      "St. Joseph",
+      "Van Buren"
+    ],
+    "basis": "All 1,317 GBIF occurrence results returned for Pholiota in Michigan were checked for these county labels, yielding 25 specimens; iNaturalist Research Grade species counts for these nine counties returned 10 Pholiota names. Coordinates without county labels were not assigned to counties here.",
+    "limitations": "This is complete for the retrieved, scoped records after stated grouping and exclusions, not an exhaustive biological census. Native status is not independently established by occurrence records. Historical determinations have not been re-examined."
+  },
+  "before": 63,
+  "added": 16,
+  "after": 79,
+  "retrieval": {
+    "gbif": "https://api.gbif.org/v1/occurrence/search?taxonKey=2528397&stateProvince=Michigan&country=US&limit=300",
+    "inat": "https://api.inaturalist.org/v1/observations/species_counts?taxon_id=64076&place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&quality_grade=research&per_page=100"
+  },
+  "additions": [
+    {
+      "taxon": "Pholiota adiposa",
+      "name": "Golden scalycap group",
+      "aliases": "golden Pholiota, golden scalycap, chestnut mushroom, Pholiota adiposa group, Pholiota aurivella, Pholiota limonella, Pholiota cerifera, Pholiota connata, Pholiota squarrosoadiposa, Pholiota squarroso-adiposa",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "months": "Mainly summer–fall; a local May collection is also on record",
+      "habitat": "Clusters on hardwood logs, stumps and standing deadwood; sometimes conifer wood",
+      "id": "Sticky yellow to orange caps with brownish scales, attached gills turning brown, and a brown spore print.",
+      "look": "Shaggy and sharp-scaly Pholiota, honey mushrooms and Gymnopilus. Honey mushrooms have white spores, but a spore print alone does not establish identity.",
+      "details": [
+        "Caps are often 2.5–12 cm across, with scales that can wash off or disappear into the slime. Stems are comparatively dry, with scales and a fragile ring zone.",
+        "Names in this complex overlap. Cap color and a photograph cannot reliably separate aurivella, limonella and adiposa; microscopic and molecular interpretation may be needed."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mushroomexpert.com/pholiota_adiposa.html",
+      "taxonNote": "One aggregate entry covers the adiposa / aurivella / limonella complex. Historical connata and squarrosoadiposa records are cross-referenced here, not counted as additional confirmed species.",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989320943",
+          "institution": "MICH",
+          "catalogNumber": "47206",
+          "county": "Allegan",
+          "locality": "New Richmond",
+          "date": "1914-10-31",
+          "recordedAs": "Pholiota aurivella (Batsch) P.Kumm.",
+          "acceptedByAggregator": "Pholiota aurivella (Batsch) P.Kumm.",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989496827",
+          "institution": "MICH",
+          "catalogNumber": "47759",
+          "county": "Allegan",
+          "locality": "New Richmond",
+          "date": "1910-09-01",
+          "recordedAs": "Pholiota squarrosoadiposa J.E.Lange",
+          "acceptedByAggregator": "Pholiota squarrosoadiposa J.E.Lange",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/3307569349",
+          "institution": "MICH",
+          "catalogNumber": "232975",
+          "county": "Kalamazoo",
+          "locality": "Al Sabo Land Reserve",
+          "date": "2017-09-16",
+          "recordedAs": "Pholiota limonella (Peck) Sacc.",
+          "acceptedByAggregator": "Pholiota limonella (Peck) Sacc.",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989547045",
+          "institution": "MICH",
+          "catalogNumber": "59729",
+          "county": "Barry",
+          "locality": "Lower Crooked Lake, S end of, Delton",
+          "date": "1970-05-16",
+          "recordedAs": "Pholiota aurivella (Batsch) P.Kumm.",
+          "acceptedByAggregator": "Pholiota aurivella (Batsch) P.Kumm.",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989476994",
+          "institution": "MICH",
+          "catalogNumber": "47234",
+          "county": "Berrien",
+          "locality": "Warren Woods",
+          "date": "1955-10-01",
+          "recordedAs": "Pholiota connata A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota connata A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=124705&quality_grade=research",
+          "recordedAs": "Pholiota aurivella",
+          "count": 7,
+          "checked": "2026-10-02"
+        },
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=125654&quality_grade=research",
+          "recordedAs": "Pholiota limonella",
+          "count": 1,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1989320943",
+        "description": "MICH 47206: New Richmond, Allegan County, 1914-10-31. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota squarrosoides",
+      "name": "Sharp-scaly Pholiota",
+      "aliases": "sharp scaly pholiota, sharp-scaly pholiota, scalycap, Pholiota squarrosoides",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Clusters on decaying hardwood logs and stumps",
+      "id": "Whitish cap beneath pointed tawny scales; cap can be sticky between scales; gills change from pale to rusty brown.",
+      "look": "Toxic shaggy scalycap (Pholiota squarrosa) can be extremely similar. Weather affects stickiness and older gills lose useful color clues.",
+      "details": [
+        "Caps are usually 3–11 cm wide; the stem has tawny scales and a short-lived ring zone. The spore print is cinnamon brown.",
+        "Microscopy may be needed: published descriptions distinguish its small, poreless spores from the larger spores of P. squarrosa. Do not decide food safety from cap stickiness."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mushroomexpert.com/pholiota_squarrosoides.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=157728&quality_grade=research",
+          "recordedAs": "Pholiota squarrosoides",
+          "count": 7,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=157728&quality_grade=research",
+        "description": "7 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota squarrosa",
+      "name": "Shaggy scalycap",
+      "aliases": "shaggy Pholiota, scaly Pholiota, shaggy scalycap, Pholiota squarrosa",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Dense clusters at hardwood bases, roots and stumps; sometimes conifers",
+      "id": "Dry yellowish cap and stem with prominent upturned brown scales; mature gills and spore print are brown.",
+      "look": "Sharp-scaly Pholiota has overlapping features and can require microscopic separation. Honey mushrooms can share the clustered habit.",
+      "details": [
+        "A shaggy partial veil leaves a ring or ring zone. Some collections have a garlic-like odor, but odor is variable.",
+        "Michigan State University considers this species poisonous. Do not eat it; avoiding alcohol does not make it safe."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil"
+        ]
+      ],
+      "status": "toxic",
+      "idSource": "https://www.mushroomexpert.com/pholiota_squarrosa.html",
+      "edibilitySource": "https://msu-prod.dotcmscloud.com/news/pholiota-squarrosa-vahl-p-kumm",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=153445&quality_grade=research",
+          "recordedAs": "Pholiota squarrosa",
+          "count": 1,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=153445&quality_grade=research",
+        "description": "1 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota flammans",
+      "name": "Flaming scalycap",
+      "aliases": "flaming Pholiota, flame scalycap, Pholiota flammans",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Summer–fall",
+      "habitat": "Dead conifer logs and stumps, singly or in clusters",
+      "id": "Fresh caps and stems are bright yellow with equally yellow shaggy scales; mature gills become cinnamon brown.",
+      "look": "Golden scalycaps usually have contrasting brown scales. Old or rain-damaged fruit bodies lose the distinctive bright-yellow appearance.",
+      "details": [
+        "The cap is commonly 4–8 cm wide and may be slimy beneath its yellow scales. A yellow veil leaves a ring zone on the stem.",
+        "Check the wood type, young scales, attached gills and brown spore print together. Worn specimens may need microscopy."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mushroomexpert.com/pholiota_flammans.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=64075&quality_grade=research",
+          "recordedAs": "Pholiota flammans",
+          "count": 3,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=64075&quality_grade=research",
+        "description": "3 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota polychroa",
+      "name": "Multicolored Pholiota",
+      "aliases": "multicolored scalycap, multicolour Pholiota, Pholiota polychroa, Pholiota ornella, Pholiota appendiculata",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "July–November",
+      "habitat": "Hardwood logs, stumps and fallen limbs; occasionally conifers or sawdust",
+      "id": "Slimy caps can mix olive, green, purple-gray and yellow-orange; a pale veil may leave patches at the margin.",
+      "look": "Other slimy Pholiota and blue-green Stropharia can overlap in appearance. Green or purple coloring does not indicate psychoactivity or food safety.",
+      "details": [
+        "Caps are variable in size and color, often losing green and purple shades as yellow tones develop. The stem may retain patches of veil below a fading ring.",
+        "The spore deposit is principally brown; the original description notes a slight purplish cast when moist. Confirm anatomy rather than relying on color alone."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_polychroa.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989360075",
+          "institution": "MICH",
+          "catalogNumber": "47613",
+          "county": "Allegan",
+          "locality": "New Richmond",
+          "date": "1912-09-23",
+          "recordedAs": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "acceptedByAggregator": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989236559",
+          "institution": "MICH",
+          "catalogNumber": "47615",
+          "county": "Cass",
+          "locality": "Russ Forest",
+          "date": "1973-08-31",
+          "recordedAs": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "acceptedByAggregator": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989340859",
+          "institution": "MICH",
+          "catalogNumber": "47614",
+          "county": "Barry",
+          "locality": "Yankee Springs",
+          "date": "1955-09-03",
+          "recordedAs": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "acceptedByAggregator": "Pholiota polychroa (Berk.) A.H.Sm. & H.J.Brodie",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=417402&quality_grade=research",
+          "recordedAs": "Pholiota polychroa",
+          "count": 2,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1989360075",
+        "description": "MICH 47613: New Richmond, Allegan County, 1912-09-23. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota spumosa",
+      "name": "Slender Pholiota group",
+      "aliases": "slender scalycap, Pholiota spumosa, spumosa complex",
+      "seasons": [
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "June–December when conditions permit",
+      "habitat": "Decayed wood, buried wood, sawdust and forest litter, often with conifers",
+      "id": "Smooth sticky yellow-brown caps with a darker center; yellowish gills become cinnamon brown and stems darken from the base.",
+      "look": "Several small yellow-brown Pholiota, including P. prolixa, overlap. Toxic sulfur tufts and deadly Galerina must also be excluded.",
+      "details": [
+        "Caps are often 3–6 cm wide and can have olive tones. Veil remnants are usually fibrillose rather than a durable skirt.",
+        "Treated as a field group because the traditional spumosa complex contains similar taxa. Species-level determinations usually require microscopic characters."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil"
+        ]
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_spumosa.html",
+      "taxonNote": "The local community records use P. spumosa; this card retains a broad field-group interpretation.",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=351827&quality_grade=research",
+          "recordedAs": "Pholiota spumosa",
+          "count": 4,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=351827&quality_grade=research",
+        "description": "4 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota lenta",
+      "name": "Pale sticky Pholiota",
+      "aliases": "pale scalycap, sticky scalycap, Pholiota lenta, Flammula lenta",
+      "seasons": [
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "July–December; chiefly cool, damp weather",
+      "habitat": "Humus, woody debris and soil rich in decaying litter",
+      "id": "Pale cream to buff, very sticky caps with scattered white veil remnants; pale gills turn grayish brown.",
+      "look": "P. lutescens and other pale Pholiota are similar. Deadly small brown mushrooms can lose or gain apparent color with age and weather.",
+      "details": [
+        "Caps may reach 3–10 cm across. The white stem often browns at the base and carries a fragile veil zone rather than a lasting ring.",
+        "Small smooth spores and cystidia are important for separation. Retain substrate and fresh specimens for expert examination."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "wood"
+        ]
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_lenta.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=351824&quality_grade=research",
+          "recordedAs": "Pholiota lenta",
+          "count": 1,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=351824&quality_grade=research",
+        "description": "1 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota granulosa",
+      "name": "Granular Pholiota",
+      "aliases": "granular scalycap, Pholiota granulosa, Flammula granulosa",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "June–September in the cited treatment",
+      "habitat": "Wood and debris of hardwoods or conifers",
+      "id": "Small dry amber-brown caps with tiny granular scales over a yellow background; yellow gills and a slender darkening stem.",
+      "look": "Small Flammulaster and other granular brown mushrooms can be very similar. Macroscopic characters alone may not resolve them.",
+      "details": [
+        "Caps are commonly 1–3.5 cm wide. Fine yellow veil remnants may hang from the margin and remain on the thin stem.",
+        "The original treatment emphasizes confusion with other small scaly species. Microscopy is needed for a reliable determination."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_granulosa.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=466792&quality_grade=research",
+          "recordedAs": "Pholiota granulosa",
+          "count": 1,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=466792&quality_grade=research",
+        "description": "1 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota angustipes",
+      "name": "Pholiota angustipes",
+      "aliases": "narrow-stemmed Pholiota, Hypodendrum angustipes, Pholiota angustipes",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "July–October",
+      "habitat": "Soil in grassy ground or near stumps and buried woody material",
+      "id": "Brown caps fade toward tan and carry tiny dotlike scales; the stem can taper downward and the ring is fleeting.",
+      "look": "Agrocybe, other brown Pholiota and deadly small brown gilled mushrooms require expert separation.",
+      "details": [
+        "The historical treatment describes caps 2–8 cm across with only slight stickiness when wet. Attached pale gills mature to cinnamon brown.",
+        "Dotlike cap scales are useful but may be absent on some caps. Confirm spores, cystidia and substrate; the local occurrence is a community identification."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "grass",
+          "wood"
+        ]
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_angustipes.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "community",
+          "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=629213&quality_grade=research",
+          "recordedAs": "Pholiota angustipes",
+          "count": 1,
+          "checked": "2026-10-02"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.inaturalist.org/observations?place_id=2373,2241,2682,527,2232,2211,107090,2161,2110&taxon_id=629213&quality_grade=research",
+        "description": "1 Research Grade community observation(s) in the nine-county southwest Michigan search, checked October 2, 2026. Identifications can be revised; they do not establish native status."
+      }
+    },
+    {
+      "taxon": "Pholiota highlandensis",
+      "name": "Burn-site Pholiota group",
+      "aliases": "bonfire scalycap, charcoal Pholiota, Pholiota highlandensis, Pholiota carbonaria, Flammula carbonaria",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "months": "Spring–fall; a local December specimen is also on record",
+      "habitat": "Burned ground, charred wood and buried wood at fire sites",
+      "id": "Clusters of small slimy reddish-brown to orange-brown caps with pale margins, attached brown-maturing gills and a veil zone.",
+      "look": "Other burn-site Pholiota are difficult to separate. Deadly Galerina and other brown-spored wood fungi remain important comparisons.",
+      "details": [
+        "Caps are often 2–6 cm across. Pale veil remnants may form patches or scaly bands below the stem apex.",
+        "This is a species-group entry: the old carbonaria label and closely similar burn-site taxa require taxonomic interpretation, not identification from a photo."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "wood"
+        ]
+      ],
+      "idSource": "https://www.mushroomexpert.com/pholiota_highlandensis.html",
+      "taxonNote": "The Barry County specimen was catalogued as Flammula carbonaria. This historical name is cross-referenced under the highlandensis group.",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1988924776",
+          "institution": "MICH",
+          "catalogNumber": "291535",
+          "county": "Barry",
+          "locality": "Deep Lake",
+          "date": "1962-12-02",
+          "recordedAs": "Flammula carbonaria (Fr.) P.Kumm.",
+          "acceptedByAggregator": "Pholiota carbonaria (Fr.) Singer",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1988924776",
+        "description": "MICH 291535: Deep Lake, Barry County, 1962-12-02. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota lutescens",
+      "name": "Yellowing Pholiota",
+      "aliases": "Pholiota lutescens, yellowing scalycap, Pholiota lutescens var. fallax",
+      "seasons": [
+        "Fall"
+      ],
+      "months": "Fall; Michigan collections include September–November",
+      "habitat": "Hardwood stumps and soil mixed with woody debris",
+      "id": "Pale to whitish sticky caps, gills and flesh develop yellow tones with age; veil remnants can be sparse.",
+      "look": "Pale sticky Pholiota (P. lenta) and other yellow-brown Pholiota overlap; a historical variety label complicates the local record.",
+      "details": [
+        "The typical published form has caps about 2–7 cm wide, attached gills and a fibrillose stem that can narrow below.",
+        "The local herbarium record includes the determination “var. fallax.” The specimen has not been re-examined for this guide, so its modern species interpretation remains provisional."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil"
+        ]
+      ],
+      "idSource": "https://www.fs.usda.gov/rm/pubs_exp_for/priest_river/exp_for_priest_river_1968_smith.pdf",
+      "taxonNote": "Historical local specimen, not a new verified determination; see the original variety remark in the source checklist.",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989280007",
+          "institution": "MICH",
+          "catalogNumber": "238122",
+          "county": "Allegan",
+          "locality": "New Richmond",
+          "date": "1910-09-10",
+          "recordedAs": "Pholiota lutescens A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota lutescens A.H.Sm. & Hesler",
+          "identificationRemarks": "[Identification listed as Pholiota lutescens var. fallax]",
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1989280007",
+        "description": "MICH 238122: New Richmond, Allegan County, 1910-09-10. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota malicola",
+      "name": "Pholiota malicola",
+      "aliases": "forgettable Pholiota, Flammula malicola, Pholiota malicola, malicola group",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "July–November",
+      "habitat": "Clusters at trees and stumps, on woody debris or from buried wood",
+      "id": "Yellow to orange-yellow caps become smoother as they age; gills turn rusty brown and a pale veil leaves a weak ring zone.",
+      "look": "Flammula alnicola and related smooth yellow wood fungi are difficult to separate. Sulfur tufts and Gymnopilus also need exclusion.",
+      "details": [
+        "Caps can begin conical and become broadly umbonate. The yellowish stem typically darkens toward the base.",
+        "Authorities differ on boundaries in the malicola / alnicola complex. No tasting is suggested for identification; microscopic work is needed."
+      ],
+      "traits": [
+        "gills",
+        [
+          "wood",
+          "soil"
+        ]
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_malicola_malicola.html",
+      "taxonNote": "Retained under the name used by the local specimen and Species Fungorum; other taxonomic treatments place it in the Flammula alnicola complex.",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989242448",
+          "institution": "MICH",
+          "catalogNumber": "47495",
+          "county": "Kalamazoo",
+          "locality": "precise locality not supplied",
+          "date": "1965-09-25",
+          "recordedAs": "Pholiota malicola (Kauffman) A.H.Sm.",
+          "acceptedByAggregator": "Pholiota malicola (Kauffman) A.H.Sm.",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1989242448",
+        "description": "MICH 47495: precise locality not supplied, Kalamazoo County, 1965-09-25. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota paludosella",
+      "name": "Pholiota paludosella",
+      "aliases": "bog Pholiota, Naucoria paludosella, Pholiota paludosella",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Local June record; September–October in the species treatment",
+      "habitat": "Sphagnum hummocks and bog moss",
+      "id": "Cream-colored sticky caps with a tawny scaly center; yellowish gills become cinnamon brown and the stem darkens below.",
+      "look": "Other bog-dwelling Pholiota and Galerina can closely resemble it. Bog habitat alone is not diagnostic.",
+      "details": [
+        "The monograph describes caps usually 3–5 cm across with buff veil remnants and a fibrillose ring zone.",
+        "Spore and cystidial measurements are needed for confident separation from P. sphagnicola and related fungi. No verified example photo is supplied here."
+      ],
+      "traits": [
+        "gills",
+        "soil"
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_paludosella.html",
+      "taxonNote": "The Berrien County specimen was collected on Sphagnum at Mud Lake Bog and catalogued as Naucoria paludosella.",
+      "photoUnavailable": true,
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/5895685024",
+          "institution": "WTU",
+          "catalogNumber": "WTU-F-052493",
+          "county": "Berrien",
+          "locality": "Mud Lake Bog.",
+          "date": "1947-06-29",
+          "recordedAs": "Naucoria paludosella G.F.Atk.",
+          "acceptedByAggregator": "Pholiota paludosella (G.F.Atk.) A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/5895685024",
+        "description": "WTU WTU-F-052493: Mud Lake Bog., Berrien County, 1947-06-29. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota parvula",
+      "name": "Pholiota parvula",
+      "aliases": "small Pholiota, Pholiota parvula",
+      "seasons": [
+        "Fall"
+      ],
+      "months": "September–October in local specimens",
+      "habitat": "Clusters or groups on hardwood",
+      "id": "Tiny sticky tawny caps, pale gills that become cinnamon brown, and a slender yellowish stem that darkens at its base.",
+      "look": "Other small Pholiota, Galerina and Hypholoma cannot be excluded from cap color and size alone.",
+      "details": [
+        "Caps are typically only 1–2 cm wide; the cobwebby yellow veil is easily lost. The stem tapers downward.",
+        "Microscopic spores and chrysocystidia are essential to distinguish this obscure species. Warren Woods specimens support a historical local record."
+      ],
+      "traits": [
+        "gills",
+        "wood"
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_parvula.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1988695830",
+          "institution": "MICH",
+          "catalogNumber": "47606",
+          "county": "Berrien",
+          "locality": "Warren Woods ?",
+          "date": "1955-09-04",
+          "recordedAs": "Pholiota parvula A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota parvula A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989006111",
+          "institution": "MICH",
+          "catalogNumber": "47605",
+          "county": "Berrien",
+          "locality": "Warren Woods ?",
+          "date": "1955-09-04",
+          "recordedAs": "Pholiota parvula A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota parvula A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989253881",
+          "institution": "MICH",
+          "catalogNumber": "47604",
+          "county": "Berrien",
+          "locality": "Warren Woods",
+          "date": "1955-10-01",
+          "recordedAs": "Pholiota parvula A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota parvula A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1988695830",
+        "description": "MICH 47606: Warren Woods ?, Berrien County, 1955-09-04. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota prolixa",
+      "name": "Pholiota prolixa",
+      "aliases": "Pholiota prolixa, swamp-wood Pholiota",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "months": "Late summer–fall",
+      "habitat": "Clusters around stumps and buried wood in low, wet hardwood woods",
+      "id": "Smooth slimy honey-yellow caps with a darker center; narrow crowded gills mature brown and thin stems darken below.",
+      "look": "The spumosa group and other smooth yellow-brown Pholiota are close comparisons; deadly Galerina must also be excluded.",
+      "details": [
+        "Caps are often 2–4 cm wide. A pale veil may leave remnants on the margin and scattered fibrils on the stem.",
+        "The original description emphasizes microscopic chrysocystidia and a combination of habitat and anatomy. Several Warren Woods specimens document the name locally."
+      ],
+      "traits": [
+        "gills",
+        [
+          "soil",
+          "wood"
+        ]
+      ],
+      "idSource": "https://www.mykoweb.com/Pholiota/species/Pholiota_prolixa.html",
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1988857628",
+          "institution": "MICH",
+          "catalogNumber": "47647",
+          "county": "Berrien",
+          "locality": "Warren Woods",
+          "date": "1945-10-01",
+          "recordedAs": "Pholiota prolixa A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota prolixa A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1988758282",
+          "institution": "MICH",
+          "catalogNumber": "47610",
+          "county": "Berrien",
+          "locality": "Warren Woods",
+          "date": "1955-10-01",
+          "recordedAs": "Pholiota prolixa A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota prolixa A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1988876342",
+          "institution": "MICH",
+          "catalogNumber": "47648",
+          "county": "Berrien",
+          "locality": "Warren Woods",
+          "date": "1955-10-01",
+          "recordedAs": "Pholiota prolixa A.H.Sm. & Hesler",
+          "acceptedByAggregator": "Pholiota prolixa A.H.Sm. & Hesler",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1988857628",
+        "description": "MICH 47647: Warren Woods, Berrien County, 1945-10-01. Historical specimen label; not re-examined for this guide."
+      }
+    },
+    {
+      "taxon": "Pholiota parvifructa",
+      "name": "Pholiota parvifructa — historical record",
+      "aliases": "Hebeloma parvifructum, Agaricus parvifructus, Derminus parvifructus, Pholiota parvifructa",
+      "seasons": [
+        "Fall"
+      ],
+      "months": "September in the local historical collection; broader season unresolved here",
+      "habitat": "The local label says under hemlock (Tsuga) and other trees",
+      "id": "Included as a historical occurrence, with no validated field-identification description for the local specimen.",
+      "look": "A brown gilled mushroom cannot be assigned this name from the historic record or from a photograph. Expert specimen examination is needed.",
+      "details": [
+        "The New Richmond specimen was filed under Hebeloma parvifructum. Species Fungorum recognizes the combination Pholiota parvifructa published in 2022.",
+        "That nomenclatural change does not re-identify the 1910 Michigan specimen. This entry preserves the record for completeness; it is not a field-identification key."
+      ],
+      "traits": [
+        "gills",
+        "soil"
+      ],
+      "idSource": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=839356",
+      "taxonNote": "Historical label mapped to its current name; local identity and native status have not been independently re-established.",
+      "photoUnavailable": true,
+      "status": "caution",
+      "nativeStatus": "Documented wild occurrence; these sources do not independently establish native-versus-introduced status.",
+      "evidence": [
+        {
+          "type": "specimen",
+          "url": "https://www.gbif.org/occurrence/1989301169",
+          "institution": "MICH",
+          "catalogNumber": "49982",
+          "county": "Allegan",
+          "locality": "New Richmond",
+          "date": "1910-09-18",
+          "recordedAs": "Hebeloma parvifructum (Peck) Sacc.",
+          "acceptedByAggregator": "Pholiota parvifructa (Peck) Beker & U.Eberh.",
+          "identificationRemarks": null,
+          "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        }
+      ],
+      "record": {
+        "type": "pholiota",
+        "label": "Local Pholiota evidence",
+        "url": "https://www.gbif.org/occurrence/1989301169",
+        "description": "MICH 49982: New Richmond, Allegan County, 1910-09-18. Historical specimen label; not re-examined for this guide."
+      }
+    }
+  ],
+  "historicalNames": [
+    {
+      "name": "Pholiota aggericola",
+      "treatment": "Held for taxonomic clarification: Smith & Hesler excluded it from Pholiota and discussed Agrocybe. Not counted as a confirmed current Pholiota.",
+      "source": "https://www.mykoweb.com/Pholiota/Excluded_Species.html",
+      "record": "https://www.gbif.org/occurrence/1988772235"
+    },
+    {
+      "name": "Pholiota populnea",
+      "treatment": "Now commonly treated as Hemipholiota populnea; former Pholiota, excluded from the current-genus count.",
+      "source": "https://www.inaturalist.org/taxa/786894",
+      "record": "https://www.gbif.org/occurrence/1989008826"
+    },
+    {
+      "name": "Pholiota tuberculosa / Pholiota curvipes",
+      "treatment": "Now treated as Pleuroflammula tuberculosa in iNaturalist. Historical Warren Woods specimens were filed as P. curvipes; not counted as a current Pholiota.",
+      "source": "https://www.inaturalist.org/taxa/1400779",
+      "record": "https://www.gbif.org/occurrence/1988692578"
+    },
+    {
+      "name": "Pholiota veris",
+      "treatment": "Mapped to Kuehneromyces marginellus by iNaturalist; former Pholiota, excluded from the current-genus count.",
+      "source": "https://www.inaturalist.org/taxa/542120",
+      "record": "https://www.gbif.org/occurrence/1989134728"
+    }
+  ],
+  "photos": {
+    "Pholiota adiposa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2548885/medium.JPG",
+      "credit": "(c) Fluff Berger, some rights reserved (CC BY-SA), uploaded by Fluff Berger",
+      "license_code": "cc-by-sa",
+      "source": "https://www.inaturalist.org/photos/2548885",
+      "caption": "Golden scalycap complex, photographed as Pholiota aurivella",
+      "representative": true
+    },
+    "Pholiota squarrosoides": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231576827/medium.jpg",
+      "credit": "(c) slothpower, some rights reserved (CC BY-NC), uploaded by slothpower",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/231576827",
+      "caption": "Pholiota squarrosoides",
+      "representative": false
+    },
+    "Pholiota squarrosa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97453612/medium.jpeg",
+      "credit": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/97453612",
+      "caption": "Pholiota squarrosa",
+      "representative": false
+    },
+    "Pholiota flammans": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112768583/medium.jpg",
+      "credit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/112768583",
+      "caption": "Pholiota flammans",
+      "representative": false
+    },
+    "Pholiota polychroa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1118677/medium.jpg",
+      "credit": "(c) Linda Gail Price, some rights reserved (CC BY-NC), uploaded by Linda Gail Price",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/1118677",
+      "caption": "Pholiota polychroa",
+      "representative": false
+    },
+    "Pholiota spumosa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138720912/medium.jpeg",
+      "credit": "(c) Alan Rockefeller, some rights reserved (CC BY), uploaded by Alan Rockefeller",
+      "license_code": "cc-by",
+      "source": "https://www.inaturalist.org/photos/138720912",
+      "caption": "Pholiota spumosa",
+      "representative": false
+    },
+    "Pholiota lenta": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26902265/medium.jpeg",
+      "credit": "(c) pinonbistro, some rights reserved (CC BY-SA), uploaded by pinonbistro",
+      "license_code": "cc-by-sa",
+      "source": "https://www.inaturalist.org/photos/26902265",
+      "caption": "Pholiota lenta",
+      "representative": false
+    },
+    "Pholiota granulosa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299255270/medium.jpg",
+      "credit": "(c) H. Wilson Montgomery, Jr., some rights reserved (CC BY-NC), uploaded by H. Wilson Montgomery, Jr.",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/299255270",
+      "caption": "Pholiota granulosa",
+      "representative": false
+    },
+    "Pholiota angustipes": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13063812/medium.jpeg",
+      "credit": "(c) mycowalt, some rights reserved (CC BY-SA), uploaded by mycowalt",
+      "license_code": "cc-by-sa",
+      "source": "https://www.inaturalist.org/photos/13063812",
+      "caption": "Pholiota angustipes",
+      "representative": false
+    },
+    "Pholiota highlandensis": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200421114/medium.jpeg",
+      "credit": "(c) James Conway, some rights reserved (CC BY-NC), uploaded by James Conway",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/200421114",
+      "caption": "Pholiota highlandensis",
+      "representative": false
+    },
+    "Pholiota lutescens": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238594062/medium.jpg",
+      "credit": "(c) huafang, some rights reserved (CC BY-NC), uploaded by huafang",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/238594062",
+      "caption": "Pholiota lutescens",
+      "representative": false
+    },
+    "Pholiota malicola": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21255394/medium.jpg",
+      "credit": "(c) geoffboyes, some rights reserved (CC BY-NC), uploaded by geoffboyes",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/21255394",
+      "caption": "Pholiota malicola",
+      "representative": false
+    },
+    "Pholiota parvula": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/163708721/medium.jpg",
+      "credit": "(c) Robert M Hallock, some rights reserved (CC BY), uploaded by Robert M Hallock",
+      "license_code": "cc-by",
+      "source": "https://www.inaturalist.org/photos/163708721",
+      "caption": "Pholiota parvula",
+      "representative": false
+    },
+    "Pholiota prolixa": {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239101403/medium.jpg",
+      "credit": "(c) huafang, some rights reserved (CC BY-NC), uploaded by huafang",
+      "license_code": "cc-by-nc",
+      "source": "https://www.inaturalist.org/photos/239101403",
+      "caption": "Pholiota prolixa",
+      "representative": false
+    }
+  }
+}

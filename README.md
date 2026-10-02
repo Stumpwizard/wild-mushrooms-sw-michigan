@@ -13,9 +13,9 @@ GitHub Pages publishes automatically from **main → /(root)**. The `.nojekyll` 
 ## How it works
 
 - All application code and styles are in `index.html`; no build step or server is required.
-- The guide contains 63 mushrooms and species groups, local occurrence references, medicinal-use evidence notes, and spore-print, foraging, handling and cooking guidance.
+- The guide contains 79 mushrooms and species groups, local occurrence references, medicinal-use evidence notes, and spore-print, foraging, handling and cooking guidance.
 - Example photos use credited iNaturalist images, with the public iNaturalist API as a fallback.
-- Supporting source comparisons and medicinal notes are included in `data/`.
+- Supporting source comparisons and medicinal notes are included in `data/`. The October 2 Pholiota comparison is in `data/pholiota-checklist.json`, with 16 additional entries, exact local evidence, historical-name handling, and explicit native-status limits.
 - A first-visit safety acknowledgement is remembered in the visitor’s browser when available.
 - Search supports common names, scientific names, combined names, and mobile Search/Enter submission.
 - A visitor’s uploaded photo stays in their browser. Visible-feature matching is a comparison tool, not automated photo identification.
