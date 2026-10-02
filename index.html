@@ -169,7 +169,7 @@ body.safety-open{overflow:hidden}
 .safety-acknowledge input{flex:none;width:1.25rem;height:1.25rem;margin:.15rem 0 0;accent-color:#204a36}
 .safety-continue{display:block;width:100%;min-height:3rem;padding:.75rem 1rem;background:#204a36;color:#fff;border:1px solid #204a36;border-radius:.5625rem;font-weight:700;cursor:pointer}
 .safety-continue:disabled{background:#e1e5dd;border-color:#c1c9bd;color:#596252;cursor:not-allowed}
-</style></head><body><header><div class="header-inner"><div class="top"><h1>Wild Mushrooms of SW Michigan</h1><div class="feedback">Email suggested updates or improvements to<a href="mailto:stumpwizard63@gmail.com">stumpwizard63@gmail.com</a></div></div><p>A seasonal field guide for the woods, lawns, and fallen timber of southwest Michigan</p></div></header><main><div class="intro"><p>Explore 63 wild mushrooms and species groups reported in southwest Michigan.</p><span class="badge">September · fall season</span></div><p class="safety-note"><strong>Do not eat a wild mushroom based on this guide or a photo.</strong> Verify every specimen in person with a qualified expert. <button class="safety-review" id="review-safety" type="button">Review safety notice</button></p><details class="sources" id="local-sources"><summary>Local records &amp; checklist comparison · 40 additions</summary>
+</style></head><body><header><div class="header-inner"><div class="top"><h1>Wild Mushrooms of SW Michigan</h1><div class="feedback">Email suggested updates or improvements to<a href="mailto:stumpwizard63@gmail.com">stumpwizard63@gmail.com</a></div></div><p>A seasonal field guide for the woods, lawns, and fallen timber of southwest Michigan</p></div></header><main><div class="intro"><p>Explore 63 wild mushrooms and species groups reported in southwest Michigan.</p><span class="badge" id="current-season">Seasonal field guide</span></div><p class="safety-note"><strong>Do not eat a wild mushroom based on this guide or a photo.</strong> Verify every specimen in person with a qualified expert. <button class="safety-review" id="review-safety" type="button">Review safety notice</button></p><details class="sources" id="local-sources"><summary>Local records &amp; checklist comparison · 40 additions</summary>
 <p>Reviewed September 27, 2026. The guide was compared with the Kalamazoo Nature Center’s 2000 field inventory of <strong>Asylum Lake Preserve in Kalamazoo</strong>, published in its 2001 report (revised 2002) for Western Michigan University. This local list supplies documented occurrences, including historical names that need modern interpretation.</p>
 <div class="source-table-wrap"><table><caption class="sr-only">How the survey’s 27 fungi-table rows were handled</caption><thead><tr><th>Survey comparison</th><th>Rows</th><th>Result</th></tr></thead><tbody>
 <tr><td>Identifiable mushrooms or groups missing from the guide</td><td>19</td><td>Added, with the survey name preserved in each record</td></tr>
@@ -274,6 +274,20 @@ body.safety-open{overflow:hidden}
 </form>
 <p class="safety-memory">Your acknowledgement is remembered on this browser when available. A new browser or cleared site data will show this notice again. You can reopen it anytime using “Review safety notice.”</p>
 </dialog><script>
+// Use southwest Michigan time even when visitors are in another time zone.
+const bannerMonthNumber=new Intl.DateTimeFormat('en-US',{timeZone:'America/Detroit',month:'numeric'});
+const bannerMonthName=new Intl.DateTimeFormat('en-US',{timeZone:'America/Detroit',month:'long'});
+function updateSeasonBanner(now=new Date()){
+ const month=Number(bannerMonthNumber.format(now));
+ const season=['winter','spring','summer','fall'][Math.floor((month%12)/3)];
+ document.getElementById('current-season').textContent=`${bannerMonthName.format(now)} · ${season} season`;
+}
+updateSeasonBanner();
+// Refresh across month changes and when a suspended mobile tab is reopened.
+setInterval(updateSeasonBanner,60_000);
+window.addEventListener('pageshow',()=>updateSeasonBanner());
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)updateSeasonBanner()});
+
 // Bump the version when the safety notice materially changes.
 const safetyStorageKey='wild-mushrooms-sw-michigan:safety-acknowledged';
 const safetyVersion='2026-09-27-v1';
