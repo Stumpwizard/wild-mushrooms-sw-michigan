@@ -12,9 +12,10 @@ GitHub Pages publishes automatically from **main → /(root)**. The `.nojekyll` 
 
 ## How it works
 
-- All application code and styles are in `index.html`; no build step or server is required.
+- Application code and styles are in `index.html`, with the reference-photo catalog in `data/photo-galleries.js`; no build step or server is required.
 - The guide contains 79 mushrooms and species groups, local occurrence references, medicinal-use evidence notes, and spore-print, foraging, handling and cooking guidance.
-- Example photos use credited iNaturalist images, with the public iNaturalist API as a fallback.
+- Reference galleries contain four credited iNaturalist photos for each of 77 entries (308 photos), with touch swiping, previous/next buttons, keyboard navigation, and a current-photo counter. Images retain their full frame and load lazily. Two rare historical Pholiota entries remain explicitly without verified reference photos.
+- The photo catalog records each image's source, license, attribution, taxon, and selection method (taxon gallery or Research Grade observation), checked October 3, 2026. Photo credits and source links follow the selected slide. Group examples are labeled; photographs are not necessarily from Michigan, and their identifications are not independent specimen verification. The site uses the saved catalog instead of making a taxon API request for every card.
 - Supporting source comparisons and medicinal notes are included in `data/`. The October 2 Pholiota comparison is in `data/pholiota-checklist.json`, with 16 additional entries, exact local evidence, historical-name handling, and explicit native-status limits.
 - A first-visit safety acknowledgement is remembered in the visitor’s browser when available.
 - Search supports common names, scientific names, combined names, and mobile Search/Enter submission.
